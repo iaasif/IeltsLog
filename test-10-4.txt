@@ -1,0 +1,42 @@
+Pargetter ok
+east ok
+library ok
+morning ok
+postbox ok
+options
+glass ok
+cooker ok
+week ok
+fence ok
+B ok
+B ok
+A ok
+C
+C ok
+
+
+games ok
+guide
+ladder ok
+D
+C
+B ok
+E
+D ok
+C
+
+E
+F
+C ok
+C ok
+B ok
+a
+
+
+power
+harnes
+oil ok
+waste ok
+test ok
+-------
+got 24 (band 6)

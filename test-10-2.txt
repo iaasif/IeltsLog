@@ -1,0 +1,42 @@
+ Hardia ok
+ 19 ok
+ GT82LC ok
+ hair dresser ok
+ dentist ok
+lighting ok
+trains ok
+safe ok
+bathroom
+training ok
+A ok
+C ok
+C ok
+B--------
+E ok
+F ok
+
+H ok
+
+B ok
+c ok
+B ok
+a
+C---
+B
+C ok
+C ok
+C
+C
+A---- ok
+
+
+economy
+customer ok
+concern
+
+shrink
+effincy
+women ok
+
+--------
+got: 23 (band score:6)

@@ -1,0 +1,43 @@
+charlton ok
+115 ok
+cash ok
+parking  ok
+music ok
+entry ok
+stage ok
+
+black
+waste
+animals ok
+tools ok
+shoes ok
+dogs ok
+F ok
+G ok
+D ok
+E
+B
+A ok
+C ok
+B ok
+B ok
+
+C
+C
+C ok
+A ok
+B ok
+A ok
+
+
+WATER
+oxygen ok
+mammals ok
+ice ok
+diclining ok
+map ok
+migration ok
+food
+
+---------
+got: 28 (band score: 6.5)
