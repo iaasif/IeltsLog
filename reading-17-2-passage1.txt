@@ -1,0 +1,15 @@
+rock ok 
+cave ok 
+clay ok 
+Essenes ok
+Hebrew ok
+Not given ok 
+False ok
+not given 
+true ok
+False ok
+False ok 
+true ok
+not given ok
+-------------------
+got 12/13 on passage 1 

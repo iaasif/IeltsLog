@@ -1,0 +1,30 @@
+true ok
+not given ok
+false
+true ok
+g
+
+
+a ok
+lifting frame ok
+hydraulic jacks ok
+stabing guides ok
+seabed
+
+ii ok
+ix ok
+
+vi
+i
+v
+vii
+food
+tree
+birds ok
+energy
+c ok
+e
+c ok
+c
+------------
+got: 12 (band score: 4)

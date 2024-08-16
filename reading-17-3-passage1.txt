@@ -1,0 +1,15 @@
+large
+sent ok
+pouch ok
+fossil ok 
+forest 
+false 
+false ok
+not given ok
+not given
+false
+false ok
+false
+not given o
+----------------
+got 6 in 13 passage1 
